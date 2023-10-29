@@ -30,7 +30,7 @@ build/
 !**/src/test/**/build/
 
 ### VS Code ###
-.vscode/
 
 ### .ENV FILES ###
 .env
+.gitignore
